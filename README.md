@@ -1,0 +1,2 @@
+# Java-Crud_Web
+Ejemplo de como crear operaciones CRUD usando tecnologias Java Web (Maven JSTL JDBC etc)
